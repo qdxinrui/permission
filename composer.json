@@ -1,7 +1,7 @@
 {
   "name": "xr/permission",
   "type": "package",
-  "description": "captcha package for laravel10",
+  "description": "Permission package for laravel10",
   "license": "MIT",
   "authors": [
     {
