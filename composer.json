@@ -1,0 +1,16 @@
+{
+  "name": "xr/permission",
+  "type": "package",
+  "description": "captcha package for laravel10",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "alex",
+      "email": "tangxinzhang@126.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^7.2|^8.2"
+  }
+}
